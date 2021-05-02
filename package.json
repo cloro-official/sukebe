@@ -1,0 +1,33 @@
+{
+  "name": "sukebe",
+  "version": "1.0.0",
+  "description": "SUKEBE, the successor to Treasure Extractor Booru; made with node.js and electron.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloro-official/sukebe.git"
+  },
+  "keywords": [
+    "booru",
+    "anime",
+    "waifu",
+    "imageboard",
+    "image",
+    "browser",
+    "electron",
+    "node.js",
+    "javascript"
+  ],
+  "author": "CLORO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloro-official/sukebe/issues"
+  },
+  "homepage": "https://github.com/cloro-official/sukebe#readme",
+  "dependencies": {
+    "electron": "^12.0.6"
+  }
+}
